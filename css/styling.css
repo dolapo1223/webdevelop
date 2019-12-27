@@ -4,6 +4,8 @@ body {
 
 img {
   border-radius: 10px 100px / 120px;
+  width: 150px;
+
 }
 
 hr {
